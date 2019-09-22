@@ -1,0 +1,24 @@
+0:
+  name: serial_number 
+  address: 0
+  alias: Numero de serie
+1:
+  name: h2_status
+  address: 5
+  alias: Etat de la mesure H2
+2:
+  name: co_status
+  address: 6
+  alias: Etat de la mesure CO
+3:
+  name: ch4_status
+  address: 7
+  alias: Etat de la mesure CH4
+4:
+  name: c2h2_status
+  address: 8
+  alias: Etat de la mesure C2H2
+5:
+  name: c2h4_status
+  address: 9
+  alias: Etat de la mesure C2H4   

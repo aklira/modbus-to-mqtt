@@ -1,0 +1,7 @@
+host: riot.rte-france.com
+port: 1883
+port_tls: 8883
+user: rte-basic-test01
+pwd: datarockstar
+topic: modbus/calisto/data
+cert: /appli/certs/ca.crt

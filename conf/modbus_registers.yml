@@ -1,0 +1,152 @@
+0:
+  name: serial_number 
+  address: 0
+  alias: Numero de serie
+1:
+  name: h2_status
+  address: 5
+  alias: Etat de la mesure H2
+2:
+  name: co_status
+  address: 6
+  alias: Etat de la mesure CO
+3:
+  name: ch4_status
+  address: 7
+  alias: Etat de la mesure CH4
+4:
+  name: c2h2_status
+  address: 8
+  alias: Etat de la mesure C2H2
+5:
+  name: c2h4_status
+  address: 9
+  alias: Etat de la mesure C2H4
+6:
+  name: wc_status
+  address: 19
+  alias: Etat de la mesure d'humidite
+7:
+  name: t1_status
+  address: 24
+  alias: Etat temperature huile 1
+8:
+  name: t2_status
+  address: 25
+  alias: Etat temperature huile 2
+9:
+  name: t3_status
+  address: 26
+  alias: Etat temperature huile 3
+10:
+  name: h2_msw
+  address: 40
+  alias:  Taux de H2 en ppm
+11:
+  name: h2_lsw
+  address: 41
+  alias:  Taux de H2 en ppm
+12:
+  name: co_msw
+  address: 42
+  alias:  Taux de CO en ppm
+13:
+  name: co_lsw
+  address: 43
+  alias: Taux de CO en ppm
+14:
+  name: ch4_msw
+  address: 44
+  alias:  Taux de CH4 en ppm
+15:
+  name: ch4_lsw 
+  address: 45
+  alias: Taux de CH4 en ppm
+16:
+  name: c2h2_msw
+  address: 46
+  alias:  Taux de C2H2 en ppm
+17:
+  name: c2h2_lsw
+  address: 47
+  alias: Taux de C2H2 en ppm
+18:
+  name: c2h4_msw
+  address: 48
+  alias: Taux de C2H4 en ppm
+19:
+  name: c2h4_lsw
+  address: 49
+  alias: Taux de CH4 en ppm
+20:
+  name: wc_msw
+  address: 68
+  alias: Taux d'humidite en ppm
+21:
+  name: wc_lsw
+  address: 69
+  alias: Taux d'humidite en ppm
+22:
+  name: t1_msw
+  address: 78
+  alias: Temperature huile 1
+23:
+  name: t1_lsw
+  address: 79
+  alias: Temperature huile 1
+24:
+  name: t2_msw
+  address: 80
+  alias: Temperature huile 2
+25:
+  name: t2_lsw
+  address: 81
+  alias: Temperature huile 2
+26:
+  name: t3_msw
+  address: 82
+  alias: Temperature huile 3
+27:
+  name: t3_lsw
+  address: 83
+  alias: Temperature huile 3
+28:
+  name: carg_time_status
+  address: 126
+  alias: Etat mesure gaz porteur restant
+29:
+  name: calg_time_status
+  address: 127
+  alias: Etat mesure gaz calibration restant
+30:
+  name: carg_time
+  address: 128
+  alias: gaz porteur restant
+31:
+  name: calg_time
+  address: 129
+  alias: gaz calibration restant
+32:
+  name: tload_a_msw
+  address: 146
+  alias: charge du transformateur
+33:
+  name: tload_a_lsw
+  address: 147
+  alias: charge du transformateur
+34:
+  name: tload_pct_msw
+  address: 148
+  alias: charge du transformateur
+35:
+  name: tload_pct_lsw
+  address: 149
+  alias: charge du transformateur
+36:
+  name: tload_a_status
+  address: 152
+  alias: etat de mesure charge A  
+37:
+  name: tload_pct_status
+  address: 153
+  alias: etat de mesure charge %     
